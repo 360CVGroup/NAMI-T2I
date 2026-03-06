@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
   
 
-We provide model weights for evaluation and deployment. Please download files from [here](https://huggingface.co/qihoo360/NAMI-T2I) and place them in the `weights` directory. 
+We provide model weights for evaluation and deployment. Please download files from [NAMI](https://huggingface.co/qihoo360/NAMI-T2I), [mclip](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT/tree/main/t2i/clip_text_encoder), [mt5-xxl]( https://huggingface.co/google/mt5-xxl/tree/main) and place them in the `weights` directory. 
 
   
 
