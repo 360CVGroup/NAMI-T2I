@@ -44,7 +44,8 @@ level of image quality.
   
 
 ```
-pip install -r requirements.txt
+1、pip install -r requirements.txt
+2、Directly use our diffusers folder, or replace the corresponding files in the installed diffusers package in your Python environment with transformer_flux.py and pipeline_flux.py from the src directory.
 ```
 
   
